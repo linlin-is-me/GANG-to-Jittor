@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+
+# Jittor JIT cache
+~/.cache/jittor/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output / logs
+outputs/
+*.log
+
+# Virtual env
+venv/
+.venv/
